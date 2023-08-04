@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=prabeshtiwari&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=Anyesa45&color=brightgreen)
 - 👋 Hi, I’m <b><i>Anisha Shreatha</b></i>
 - 👀 I’m interested in Web developement, Wordpress, Graphics Design and Digital Marketing.
 - 🌱 I’m currently learning ReactJS (a framewotk JS)
